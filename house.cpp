@@ -1,6 +1,6 @@
 #include "graphics.h"
 #include "picture.hpp"
-void house() () {
+void house()  {
 	setcolor(GREEN);
     rectangle(200, 200, 400, 400);
 

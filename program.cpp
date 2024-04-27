@@ -4,8 +4,8 @@ int main()
 { initwindow(800,600);
  house(); // дом
  sun(); // солнце
- man(); // человек
- fence(); // забор
+ //man(); // человек
+ //fence(); // забор
  getch();
  closegraph();
 }
